@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c348d90c-f981-4f81-901d-d5b7702e30c4": {
+      "ProjectGuid": "c348d90c-f981-4f81-901d-d5b7702e30c4",
+      "DisplayName": "ContactManager.UI",
+      "ColorIndex": 0
+    },
+    "21e0f90d-a76f-439e-881b-573b95e8193f": {
+      "ProjectGuid": "21e0f90d-a76f-439e-881b-573b95e8193f",
+      "DisplayName": "ContactManager.BLL",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "9380a824-3f40-43fd-a12c-885be491e401": {
+      "ProjectGuid": "9380a824-3f40-43fd-a12c-885be491e401",
+      "DisplayName": "ContactManager.BL",
+      "ColorIndex": 2
+    },
+    "53751a48-85e1-434b-8590-8cc771c4f6ec": {
+      "ProjectGuid": "53751a48-85e1-434b-8590-8cc771c4f6ec",
+      "DisplayName": "ClassLibrary1",
+      "ColorIndex": 3
+    },
+    "13efb5cb-afe4-4921-a7b9-413c61b17b95": {
+      "ProjectGuid": "13efb5cb-afe4-4921-a7b9-413c61b17b95",
+      "DisplayName": "ContactManager.BL",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

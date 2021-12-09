@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContactManager.UI", "ContactManager.UI\ContactManager.UI\ContactManager.UI.csproj", "{C348D90C-F981-4F81-901D-D5B7702E30C4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContactManager.BL", "ContactManager.BL\ContactManager.BL.csproj", "{13EFB5CB-AFE4-4921-A7B9-413C61B17B95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C348D90C-F981-4F81-901D-D5B7702E30C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C348D90C-F981-4F81-901D-D5B7702E30C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C348D90C-F981-4F81-901D-D5B7702E30C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C348D90C-F981-4F81-901D-D5B7702E30C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13EFB5CB-AFE4-4921-A7B9-413C61B17B95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13EFB5CB-AFE4-4921-A7B9-413C61B17B95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13EFB5CB-AFE4-4921-A7B9-413C61B17B95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13EFB5CB-AFE4-4921-A7B9-413C61B17B95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAD46424-0099-45EB-B44A-67511E04F458}
+	EndGlobalSection
+EndGlobal
